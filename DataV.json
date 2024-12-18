@@ -1,0 +1,14 @@
+{
+  "Products": [
+    {
+      "Name": "SVerb",
+      "Description": "This is a high-quality reverb plugin.offers a wide range of parameters.to use and sounds great!",
+      "ImagePath": "sverb_icon.png"
+    },
+    {
+      "Name": "Spectral",
+      "Description": "Powerful spectral processing.and manipulate frequencies with precision.for mastering and sound design.",
+      "ImagePath": "spectral_icon.png"
+    }
+  ]
+}
