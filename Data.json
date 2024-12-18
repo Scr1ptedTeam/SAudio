@@ -1,0 +1,14 @@
+{
+  "Products": {
+    "SVerb": [
+      "ABC-123-XYZ-456",
+      "DEF-789-PQR-012",
+      "GHI-345-STU-678"
+    ],
+    "Spectral": [
+      "JKL-901-VWX-234",
+      "MNO-567-YZX-890",
+      "PQR-123-ABC-456"
+    ]
+  }
+}
