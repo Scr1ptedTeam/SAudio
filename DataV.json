@@ -9,6 +9,11 @@
       "Name": "Spectral",
       "Description": "Spectral is a convolution reverb plugin\ndelivering lush, immersive spaces.\nCreate realistic and atmospheric reverb effects\nwith high-quality impulse responses.",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Spectral.png"
-    }
+    },
+    {
+      "Name": "Merry Christmas",
+      "Description": "Thanks, For Using SAudio",
+      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Scr1ptedDevelopment2025.png"
+    },
   ]
 }
